@@ -1,0 +1,10 @@
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.csproj.AssemblyReference.cache
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.frmDVDLibrary.resources
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.Properties.Resources.resources
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.csproj.GenerateResource.cache
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.csproj.CoreCompileInputs.cache
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\bin\Debug\lab6_prjDVD.exe.config
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\bin\Debug\lab6_prjDVD.exe
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\bin\Debug\lab6_prjDVD.pdb
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.exe
+D:\ProjectDotNet\lab6_prjDVD\lab6_prjDVD\lab6_prjDVD\obj\Debug\lab6_prjDVD.pdb

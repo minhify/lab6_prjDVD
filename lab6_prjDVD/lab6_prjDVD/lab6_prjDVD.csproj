@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsDatabase.cs" />
     <Compile Include="frmDVDLibrary.cs">
       <SubType>Form</SubType>
     </Compile>
