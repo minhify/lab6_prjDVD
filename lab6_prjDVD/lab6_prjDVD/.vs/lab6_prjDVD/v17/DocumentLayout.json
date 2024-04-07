@@ -3,19 +3,20 @@
   "WorkspaceRootPath": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\frmdvdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|solutionrelative:frmdvdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|d:\\projectdotnet\\lab6_prjdvd\\lab6_prjdvd\\lab6_prjdvd\\frmdvdlibrary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|solutionrelative:frmdvdlibrary.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|d:\\projectdotnet\\lab6_prjdvd\\lab6_prjdvd\\lab6_prjdvd\\frmdvdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|solutionrelative:frmdvdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\TAILIEU\\CT310H_PhatTrienUngDungVoi_NET\\LAB-2024\\Projects\\lab6_pjDVD\\lab6_prjDVD\\lab6_prjDVD\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|d:\\projectdotnet\\lab6_prjdvd\\lab6_prjdvd\\lab6_prjdvd\\clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|solutionrelative:clsdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|d:\\projectdotnet\\lab6_prjdvd\\lab6_prjdvd\\lab6_prjdvd\\frmdvdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C6746E60-3A4C-44E0-BB91-811A39DF54C4}|lab6_prjDVD.csproj|solutionrelative:frmdvdlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,39 +34,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "clsDatabase.cs",
-              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\clsDatabase.cs",
-              "RelativeDocumentMoniker": "clsDatabase.cs",
-              "ToolTip": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\clsDatabase.cs",
-              "RelativeToolTip": "clsDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T11:12:42.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Document\\TAILIEU\\CT310H_PhatTrienUngDungVoi_NET\\LAB-2024\\Projects\\lab6_pjDVD\\lab6_prjDVD\\lab6_prjDVD\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Document\\TAILIEU\\CT310H_PhatTrienUngDungVoi_NET\\LAB-2024\\Projects\\lab6_pjDVD\\lab6_prjDVD\\lab6_prjDVD\\Form1.cs",
-              "ToolTip": "D:\\Document\\TAILIEU\\CT310H_PhatTrienUngDungVoi_NET\\LAB-2024\\Projects\\lab6_pjDVD\\lab6_prjDVD\\lab6_prjDVD\\Form1.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\Document\\TAILIEU\\CT310H_PhatTrienUngDungVoi_NET\\LAB-2024\\Projects\\lab6_pjDVD\\lab6_prjDVD\\lab6_prjDVD\\Form1.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Title": "frmDVDLibrary.Designer.cs",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\frmDVDLibrary.Designer.cs",
+              "RelativeDocumentMoniker": "frmDVDLibrary.Designer.cs",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\frmDVDLibrary.Designer.cs",
+              "RelativeToolTip": "frmDVDLibrary.Designer.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAswLcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T10:40:12.54Z",
+              "WhenOpened": "2024-04-07T07:11:02.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "frmDVDLibrary.cs",
               "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\frmDVDLibrary.cs",
               "RelativeDocumentMoniker": "frmDVDLibrary.cs",
               "ToolTip": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\frmDVDLibrary.cs",
               "RelativeToolTip": "frmDVDLibrary.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAcwC0AAAA8AAAA",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAQwIYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T10:20:17.369Z",
               "EditorCaption": ""
@@ -73,6 +61,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "clsDatabase.cs",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\clsDatabase.cs",
+              "RelativeDocumentMoniker": "clsDatabase.cs",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\clsDatabase.cs",
+              "RelativeToolTip": "clsDatabase.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:12:42.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "frmDVDLibrary.cs [Design]",
               "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjDVD\\lab6_prjDVD\\lab6_prjDVD\\frmDVDLibrary.cs",
               "RelativeDocumentMoniker": "frmDVDLibrary.cs",
