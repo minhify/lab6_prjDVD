@@ -50,7 +50,7 @@
             // btnCancel
             // 
             this.btnCancel.Location = new System.Drawing.Point(385, 462);
-            this.btnCancel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnCancel.Margin = new System.Windows.Forms.Padding(4);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(81, 38);
             this.btnCancel.TabIndex = 25;
@@ -61,7 +61,7 @@
             // btnSave
             // 
             this.btnSave.Location = new System.Drawing.Point(253, 459);
-            this.btnSave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(4);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(80, 38);
             this.btnSave.TabIndex = 24;
@@ -72,7 +72,7 @@
             // btnAdd
             // 
             this.btnAdd.Location = new System.Drawing.Point(103, 459);
-            this.btnAdd.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(4);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(88, 38);
             this.btnAdd.TabIndex = 23;
@@ -84,7 +84,7 @@
             // 
             this.tbDVDTitle.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbDVDTitle.Location = new System.Drawing.Point(158, 139);
-            this.tbDVDTitle.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbDVDTitle.Margin = new System.Windows.Forms.Padding(4);
             this.tbDVDTitle.Name = "tbDVDTitle";
             this.tbDVDTitle.Size = new System.Drawing.Size(361, 27);
             this.tbDVDTitle.TabIndex = 22;
@@ -134,9 +134,9 @@
             this.groupBox1.Controls.Add(this.rbNo);
             this.groupBox1.Controls.Add(this.rbYes);
             this.groupBox1.Location = new System.Drawing.Point(157, 314);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(4);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(4);
             this.groupBox1.Size = new System.Drawing.Size(250, 125);
             this.groupBox1.TabIndex = 17;
             this.groupBox1.TabStop = false;
@@ -146,7 +146,7 @@
             // 
             this.rbNo.AutoSize = true;
             this.rbNo.Location = new System.Drawing.Point(135, 54);
-            this.rbNo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rbNo.Margin = new System.Windows.Forms.Padding(4);
             this.rbNo.Name = "rbNo";
             this.rbNo.Size = new System.Drawing.Size(51, 24);
             this.rbNo.TabIndex = 1;
@@ -159,7 +159,7 @@
             // 
             this.rbYes.AutoSize = true;
             this.rbYes.Location = new System.Drawing.Point(34, 54);
-            this.rbYes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rbYes.Margin = new System.Windows.Forms.Padding(4);
             this.rbYes.Name = "rbYes";
             this.rbYes.Size = new System.Drawing.Size(58, 24);
             this.rbYes.TabIndex = 0;
@@ -171,7 +171,12 @@
             // nrPrice
             // 
             this.nrPrice.Location = new System.Drawing.Point(158, 254);
-            this.nrPrice.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.nrPrice.Margin = new System.Windows.Forms.Padding(4);
+            this.nrPrice.Maximum = new decimal(new int[] {
+            999999999,
+            0,
+            0,
+            0});
             this.nrPrice.Name = "nrPrice";
             this.nrPrice.Size = new System.Drawing.Size(226, 27);
             this.nrPrice.TabIndex = 16;
@@ -180,12 +185,8 @@
             // cbLang
             // 
             this.cbLang.FormattingEnabled = true;
-            this.cbLang.Items.AddRange(new object[] {
-            "English",
-            "Spanish",
-            ""});
             this.cbLang.Location = new System.Drawing.Point(157, 198);
-            this.cbLang.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbLang.Margin = new System.Windows.Forms.Padding(4);
             this.cbLang.Name = "cbLang";
             this.cbLang.Size = new System.Drawing.Size(225, 28);
             this.cbLang.TabIndex = 15;
@@ -195,7 +196,7 @@
             // 
             this.tbDVDNumber.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.tbDVDNumber.Location = new System.Drawing.Point(158, 89);
-            this.tbDVDNumber.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tbDVDNumber.Margin = new System.Windows.Forms.Padding(4);
             this.tbDVDNumber.Name = "tbDVDNumber";
             this.tbDVDNumber.Size = new System.Drawing.Size(361, 27);
             this.tbDVDNumber.TabIndex = 14;
@@ -230,9 +231,10 @@
             this.Controls.Add(this.tbDVDNumber);
             this.Controls.Add(this.lbTitle);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmDVDLibrary";
             this.Text = "DVD Library";
+            this.Load += new System.EventHandler(this.frmDVDLibrary_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nrPrice)).EndInit();
